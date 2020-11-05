@@ -19,7 +19,7 @@ def KelilingSegitiga(a,b,c):
     keliling = a+b+c
     return keliling
 def LuasLingkaran(r):
-    luas = 3.14*r*r
+    luas = 3.14*r**2
     return luas
 def KelilingLingkaran(r):
     keliling = 2*3.14*r
